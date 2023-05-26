@@ -1,0 +1,148 @@
+body {
+    color: #40514E;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66bfbf;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.1rem;
+    font-weight: normal;
+    color: #66bfbf;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+a {
+    color: #11999e;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.top-container {
+    background-color: #Eaf6f6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 10px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.profile-img {
+    width: 15%;
+}
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chess-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #c3cccc;
+    border-width: 5px;
+    width: 5%;
+    margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+.contact-message {
+    width: 30%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.BUTTON_XVP {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    padding: 15px;
+    background-color: #66BFBF;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_XVP:hover {
+    background: #66BFBF;
+    border: solid #99CFCF 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+.bottom-container {
+    padding: 50px;
+    background-color: #66bfbf;
+}
+
+.footer-link {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.copyright {
+    padding: 10px;
+    color: #Eaf6f6;
+    font-size: 0.75rem;
+}
+
+a:hover {
+    color: #Eaf6f6;
+}
